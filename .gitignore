@@ -16,3 +16,9 @@ tmp
 .env
 tmp
 .rillcloud
+.DS_Store
+
+# Rill
+.env
+tmp
+.rillcloud
